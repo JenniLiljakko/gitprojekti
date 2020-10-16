@@ -19,5 +19,5 @@ Salaatti
 Oliiviöljy
 Kissanhiekka
 Kurkuma
-Suola
+PanSuola
 
