@@ -1,3 +1,3 @@
-Tämä on tarina
+Tämä on todella lyhyt tarina
 Tämä tarina on testi
 Git testi
